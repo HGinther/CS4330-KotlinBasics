@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-	  val sample1 = 0x3A
+    val sample1 = 0x3A
     var sample2 = 58
     var heartRate = 85
     var deposits = 135002796
